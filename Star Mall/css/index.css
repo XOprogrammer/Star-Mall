@@ -1,0 +1,20 @@
+* {
+	margin: 0%;
+	padding: 0%;
+	box-sizing: border-box;
+	outline: none;
+}
+
+h1 {
+	text-align: center;
+	margin: 50px 0;
+}
+
+p {
+	text-align: center;
+}
+
+.second {
+	margin-left: 120px;
+	margin-top: 10px;
+}
